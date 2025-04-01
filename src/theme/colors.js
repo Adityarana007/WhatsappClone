@@ -10,5 +10,6 @@ export const Colors = {
     textColor: '#cdd4da',
     textGrey: '#8b959a',
     red: '#e53f43',
+    grey2: '#708090'
   };
   
